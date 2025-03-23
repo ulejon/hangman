@@ -1,4 +1,4 @@
-package se.lejon;
+package se.lejon.hangman;
 
 /**
  * Hello world!
